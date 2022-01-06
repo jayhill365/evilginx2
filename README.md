@@ -18,26 +18,7 @@ Present version is fully written in GO as a standalone application, which implem
 
 I am very much aware that Evilginx can be used for nefarious purposes. This work is merely a demonstration of what adept attackers can do. It is the defender's responsibility to take such attacks into consideration and find ways to protect their users against this type of phishing attacks. Evilginx should be used only in legitimate penetration testing assignments with written permission from to-be-phished parties.
 
-## Write-up
 
-If you want to learn more about this phishing technique, I've published extensive blog posts about **evilginx2** here:
-
-[Evilginx 2.0 - Release](https://breakdev.org/evilginx-2-next-generation-of-phishing-2fa-tokens)
-
-[Evilginx 2.1 - First Update](https://breakdev.org/evilginx-2-1-the-first-post-release-update/)
-
-[Evilginx 2.2 - Jolly Winter Update](https://breakdev.org/evilginx-2-2-jolly-winter-update/)
-
-[Evilginx 2.3 - Phisherman's Dream](https://breakdev.org/evilginx-2-3-phishermans-dream/)
-
-[Evilginx 2.4 - Gone Phishing](https://breakdev.org/evilginx-2-4-gone-phishing/)
-
-## Video guide
-
-Take a look at the fantastic videos made by Luke Turvey ([@TurvSec](https://twitter.com/TurvSec)), which fully explain how to get started using **evilginx2**.
-
-[![How to phish for passwords and bypass 2FA - Luke Turvey](https://mrturvey.co.uk/wp-content/uploads/2020/12/Phishing-Bypass-2FA--1024x576.jpg)](https://mrturvey.co.uk/aiovg_videos/how-to-phish-for-passwords-and-bypass-2fa/)
-[![Creating custom phishlets for evilginx2 (2FA Bypass) - Luke Turvey](https://mrturvey.co.uk/wp-content/uploads/2020/12/Evilginx2-Phishlet-Creation-1024x576.jpg)](https://mrturvey.co.uk/aiovg_videos/creating-custom-phishlets-for-evilginx2-2fa-bypass/)
 
 ## Phishlet Masters - Hall of Fame
 

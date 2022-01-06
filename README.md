@@ -38,8 +38,11 @@ Please thank the following contributors for devoting their precious time to deli
 
 
 ## Requirements 
-DOMAIN "xbxc.com" 
-AWS Server Debian preferably 
+You'll need to purchase a DOMAIN "xbxc.com" I chose Godaddy.
+
+You'll also need a Server, I chose AWS Debian preferably.
+
+Once you have both of the above, you'll need to point your domain to your server by changing the DNS in the domain management tab from where you purchased your domain from. 
 
 
 

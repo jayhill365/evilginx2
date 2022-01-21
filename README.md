@@ -5,7 +5,7 @@
   </p>
 </p>
 
-**evilginx2** is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
+**evilginx2** Follow my walkthrough tutorial for help installing https://1jayhill.medium.com/evilginx2-x-gophish-to-hunt-for-2fa-mfa-passwords-cookies-using-aws-godaddy-f03e9154732b is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
 
 This tool is a successor to [Evilginx](https://github.com/kgretzky/evilginx), released in 2017, which used a custom version of nginx HTTP server to provide man-in-the-middle functionality to act as a proxy between a browser and phished website.
 Present version is fully written in GO as a standalone application, which implements its own HTTP and DNS server, making it extremely easy to set up and use.
